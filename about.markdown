@@ -9,6 +9,7 @@ a
 
 who involved in 
 > [github](https://github.com/keaising)
+> [gitcafe](https://gitcafe.com/keaising)
 
 
 mail 
@@ -16,7 +17,7 @@ mail
 
 
 or follow 
-> [@keaising](https://twitter.com/#!/keaising)
+> [@ArashiyamaAzusa](https://twitter.com/#!/ArashiyamaAzusa)
 
 
 to reach me
