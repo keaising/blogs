@@ -15,6 +15,7 @@ tags:
 [![msra]({{ site.baseurl }}/media/files/2014/11/22/msra.jpg)](https://500px.com/photo/90573499/msra-by-keai-sing)
 
 微软亚洲研究院12层彩画挺好看的。一个一般大学的IEEE分会去参观人家也是给足了面子，讲了很多有价值的东西，值回半天时间。
+
 <!--
 现在过的生活的确很辛苦也不是我想过的，虽然我过得还算是挺享受的。
 
