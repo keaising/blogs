@@ -15,11 +15,11 @@ tags:
 
 最近看了挺多有意思的宣传片，最喜欢的是微软在2014年美国超级碗投放的一个名为Empowering us all(给我们所有人力量)的宣传片，讲述微软弄的一堆科技产品(主要是Kinect)给正常人和非正常人带来的一系列生活上的巨大改变。这个宣传片可以说是我今年看到过最好且没有之一的一个，原本是在Youtube上的，Youtube链接：[Empowering us all](https://www.youtube.com/watch?v=qaOvHKG0Tio/ "Empowering us all")
 
-<iframe width="680" height="328" src="//www.youtube.com/embed/qaOvHKG0Tio" frameborder="0" allowfullscreen></iframe>
+<iframe width="680" height="382" src="//www.youtube.com/embed/qaOvHKG0Tio" frameborder="0" allowfullscreen></iframe>
 
 墙内估计不能看，给个优酷的链接吧：[Empowering us all](http://v.youku.com/v_show/id_XODMxNzQyOTAw/ "Empowering us all")
 
-<iframe height="680" width="328" src="http://player.youku.com/embed/XODMxNzQyOTAw" frameborder="0" allowfullscreen></iframe>
+<iframe height=680 width=382 src="http://player.youku.com/embed/XODMxNzQyOTAw" frameborder=0 allowfullscreen></iframe>
 
 关于这个宣传片有这样一个讲解：[微软粉是怎样炼成的-Empowering us all-知乎回答](http://www.zhihu.com/question/26899218/answer/34518294/ "Empowering us all")。
 
