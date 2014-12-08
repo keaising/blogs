@@ -19,7 +19,7 @@ tags:
 
 墙内估计不能看，给个优酷的链接吧：[Empowering us all](http://v.youku.com/v_show/id_XODMxNzQyOTAw/ "Empowering us all")
 
-<iframe height=680 width=382 src="http://player.youku.com/embed/XODMxNzQyOTAw" frameborder=0 allowfullscreen></iframe>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XODMxNzQyOTAw" frameborder=0 allowfullscreen></iframe>
 
 关于这个宣传片有这样一个讲解：[微软粉是怎样炼成的-Empowering us all-知乎回答](http://www.zhihu.com/question/26899218/answer/34518294/ "Empowering us all")。
 
