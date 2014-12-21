@@ -1,7 +1,7 @@
 ---
 title: 是的，我错了
 layout: post
-guid: urn:uuid:2ef3550f-8cf3-400b-a55b-c512c9af8b2e
+guid: 2ef3550f-8cf3-400b-a55b-c512c9af8b2e
 tags:
   - Notes
 ---

@@ -1,7 +1,7 @@
 ---
 title: 宿舍桌子
 layout: post
-guid: urn:uuid:2ef3550f-8cf3-400b-a55b-c512c9af8b2d
+guid: 2ef3550f-8cf3-400b-a55b-c512c9af8b2d
 tags:
   - Notes
 ---
