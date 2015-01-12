@@ -166,10 +166,10 @@ article {
   margin: 2em 0; }
   article ol, article ul {
 	margin-left: 5%;
- 	padding-left: 5%;
- 	border-left: #d2d2d2 1px solid;
- 	color: grey;
- 	/*display: block;*/
+ 	padding-left: 0%;
+ 	/*border-left: #d2d2d2 1px solid;
+ 	color: grey;*/
+ 	display: block;
 }
   article p {
     padding: .7em 0; }
