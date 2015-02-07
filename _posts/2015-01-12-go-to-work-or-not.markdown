@@ -1,5 +1,5 @@
 ---
-title: 『鲤·不上班的理想生活』T_T
+title: 不上班的理想生活
 layout: post
 guid: 2ef3550f-8cf3-400b-a55b-c512c9af8a2m
 tags:
