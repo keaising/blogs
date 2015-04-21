@@ -12,9 +12,9 @@ who involved in
 
 > [gitcafe](https://gitcafe.com/keaising)
 
-> [好孩子写日志](blog.shuxiaowang.com)
+> [好孩子写日志](http://blog.shuxiaowang.com)
 
-> [坏孩子画桃符](note.shuxiaowang.com)
+> [坏孩子画桃符](http://note.shuxiaowang.com)
 
 
 mail 
