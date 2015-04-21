@@ -4,7 +4,7 @@ layout: page
 ---
 
 a
->  永远是学生 | 一直在折腾 | 一条大软狗 | 努力成Coder
+>  Student always | ZheTenger | Microsoft Dog | Coder /On the way
 
 
 who involved in 
@@ -12,13 +12,17 @@ who involved in
 
 > [gitcafe](https://gitcafe.com/keaising)
 
+> [好孩子写日志](blog.shuxiaowang.com)
+
+> [坏孩子画桃符](note.shuxiaowang.com)
+
 
 mail 
-> keaising@gmail.com
+> keaising##gmail.com
 
 
 or follow 
-> [@嵐山梓](https://twitter.com/#!/keaising)
+> [@keaising](https://twitter.com/#!/keaising)
 
 
 to reach me
