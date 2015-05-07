@@ -5,17 +5,17 @@ name: "流水沉微"
 markdown: redcarpet
 #markdown: rdiscount
 
-author: "Shuxiao WANG"
-atom-baseurl: "http://shuxiaowang.com"
+author: "Shuxiao Wang"
+atom-baseurl: "http://www.shuxiaowang.com"
 disqus: "gopherwood"
 
 navigations:
   - title: Archive
     class: fa fa-list-ul
     href: /archive.html
-  - title: Tags
-    class: fa fa-tags
-    href: /tags.html
+#  - title: Tags
+#    class: fa fa-tags
+#    href: /tags.html
   - title: About
     class: fa fa-user
     href: /about.html
