@@ -1,5 +1,5 @@
 ---
-title: 决策失误
+title: 硕士的自我救赎
 layout: post
 guid: 2ef3550f-8cf3-400b-a55b-c512c9af8a2z
 tags:
