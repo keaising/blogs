@@ -10,19 +10,18 @@ a
 who involved in 
 > [github](https://github.com/keaising)
 
-> [gitcafe](https://gitcafe.com/keaising)
+> [桃符](http://blog.shuxiao.wang)
 
-> [好孩子写日志](http://blog.shuxiaowang.com)
+> [博客](http://shuxiao.wang)
 
-> [坏孩子画桃符](http://note.shuxiaowang.com)
-
+> [翻译一本书](http://mf.shuxiao.wang)
 
 mail 
-> keaising##gmail.com
+> mail##shuxiao.wang
 
 
 or follow 
-> [@冬眠君](https://twitter.com/#!/Wsx_xzW)
+> [@大河萌虎](https://twitter.com/#!/Wsx_xzW)
 
 
 to reach me
