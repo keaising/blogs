@@ -14,14 +14,14 @@ who involved in
 
 > [桃符](http://shuxiao.wang)
 
-> [翻译一本书](http://mf.shuxiao.wang)
+<!-- > [翻译一本书](http://mf.shuxiao.wang) -->
 
 mail 
-> mail##shuxiao.wang
+> mail##shuxiaowang.com
 
 
 or follow 
-> [@大河萌虎](https://twitter.com/#!/Wsx_xzW)
+> [@大河萌虎](https://twitter.com/#!/keaising)
 
 
 to reach me
