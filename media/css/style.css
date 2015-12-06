@@ -108,7 +108,7 @@ time {
   font-family: "Ubuntu", monospace; }
 
 header {
-  width: 600px;
+  width: 750px;
   margin: 0 auto;
   text-align: justify;
   margin: 3em auto; }
@@ -139,9 +139,9 @@ header {
       color: #ccc; }
 
 #content {
-  width: 600px;
+  width: 750px;
   margin: 0 auto;
-  line-height: 2em; }
+  line-height: 1.9em; }
   #content .main-listing {
     margin-bottom: 2em; }
 
@@ -188,7 +188,7 @@ article {
       color: #999999;
       padding: .25em; }
   article .post img {
-    max-width: 600px;
+    max-width: 750px;
     display: block;
     margin: .5em auto; }
   article .comment {
@@ -227,7 +227,7 @@ article {
     margin-left: 1%; }
 
 footer {
-  width: 600px;
+  width: 750px;
   margin: 0 auto;
   display: block;
   color: #909090;
@@ -257,7 +257,7 @@ footer {
   .like-wrapper .like-button.liked:hover {
     color: #999; }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
   body {
     padding: 0 20px;
   }
