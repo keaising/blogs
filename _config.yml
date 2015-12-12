@@ -1,5 +1,5 @@
 markdown: rdiscount
-highlighter: pygments
+highlighter: Pygments
 permalink: /:year/:month/:day/:title.html
 name: "流水沉微"
 markdown: redcarpet
