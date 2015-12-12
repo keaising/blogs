@@ -6,7 +6,7 @@ markdown: redcarpet
 #markdown: rdiscount
 
 author: "Shuxiao Wang"
-atom-baseurl: "http://www.shuxiaowang.com"
+atom-baseurl: "http://blogs.shuxiao.wang"
 disqus: "gopherwood"
 
 navigations:
