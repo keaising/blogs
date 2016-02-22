@@ -2,7 +2,7 @@ markdown: rdiscount
 highlighter: Pygments
 permalink: /:year/:month/:day/:title.html
 name: "流水沉微"
-markdown: redcarpet
+markdown: kramdown
 #markdown: rdiscount
 
 author: "Shuxiao Wang"
