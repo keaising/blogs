@@ -17,19 +17,19 @@ tags:
 
 起因
 
-![1]({{ site.baseurl }}/media/files/2016/04/1.png)
+![1]({{ site.baseurl }}/media/files/2016/04/1.PNG)
 
 经过一
 
-![2]({{ site.baseurl }}/media/files/2016/04/2.png)
+![2]({{ site.baseurl }}/media/files/2016/04/2.PNG)
 
 经过二
 
-![3]({{ site.baseurl }}/media/files/2016/04/3.png)
+![3]({{ site.baseurl }}/media/files/2016/04/3.PNG)
 
 结果
 
-![4]({{ site.baseurl }}/media/files/2016/04/4.png)
+![4]({{ site.baseurl }}/media/files/2016/04/4.PNG)
 
 我也不知道该怎么形容这种境遇，大概就是你好好跟他说一件事但是他自己没有理解到意思最后发现下不来台死要面子活受罪，怪我咯？
 
