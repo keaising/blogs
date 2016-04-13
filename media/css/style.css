@@ -18,7 +18,8 @@
 
 body {
   font-size: 14px;
-  font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  /*font-family: "telexregular", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;*/
+  font-family: "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   color: black;
   /*color: #555*/
   background-color: white;
