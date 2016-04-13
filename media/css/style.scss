@@ -12,7 +12,7 @@
 @import url(/media/fonts/telex-regular.css);
 /*@import url(http://fonts.googleapis.com/css?family=Ubuntu:300);*/
 
-$font-name: "telexregular";
+$font-name: "Microsoft YaHei";
 $mono-font-name: "Ubuntu";
 $page-width: 680;
 $font: $font-name, "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -149,9 +149,10 @@ footer {
 .gist { font-size: 13px; line-height:1.6; }
 
 // like
-.like-wrapper {
+/*.like-wrapper {
   color: #999;
   .like-button, .unlike-button { font-family: "FontAwesome"; padding-right: 5px; }
   .like-button:hover { color: #dd1144; }
   .like-button.liked:hover { color: #999; }
 }
+*/
