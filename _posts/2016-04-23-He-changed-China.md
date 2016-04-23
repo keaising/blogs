@@ -17,7 +17,7 @@ tags:
 
 让我觉得耳目一新的时候是那个著名的[长者怒斥香港记者](https://www.youtube.com/watch?v=JV2zKwsfvAg)
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/JV2zKwsfvAg" frameborder="0" allowfullscreen></iframe>
+<iframe width="615" height="461" src="https://www.youtube.com/embed/JV2zKwsfvAg" frameborder="0" allowfullscreen></iframe>
 
 这两年兴起的「膜蛤」风潮中出现的「闷声发大财」、「我们已经钦定了XXX」以及「too young, too simple, sometimes naive」都产生于此：
 
