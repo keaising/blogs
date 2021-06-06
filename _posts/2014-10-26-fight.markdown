@@ -12,7 +12,7 @@ tags:
 [Lucian](http://lucianmarin.com/ "Lucian")
 -->
 
-[![Calendar]({{  }}/media/files/2014/10/26/calendar.jpg)](https://500px.com/photo/87645335/calendar-by-keai-sing)
+[![Calendar]({{ calendar }}/media/files/2014/10/26/calendar.jpg)](https://500px.com/photo/87645335/calendar-by-keai-sing)
 
 继续！！！Fight！！！
 
