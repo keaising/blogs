@@ -6,7 +6,7 @@ markdown: kramdown
 #markdown: rdiscount
 
 author: "Shuxiao Wang"
-atom-baseurl: "http://blogs.shuxiao.wang"
+atom-baseurl: "https://blogs.shuxiao.wang"
 disqus: "gopherwood"
 
 navigations:
